@@ -1,0 +1,4 @@
+function changeEnough(change, amountDue)
+{
+    
+}
